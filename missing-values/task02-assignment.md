@@ -1,7 +1,7 @@
 # Task 02: Modus
 
 1. **Predict:** \
-   Bez spuštění! Přečti si kód v souboru `modus.py` a pokus se odhadnout, co dělá. Až budeš mít rozmyšleno, prober to se svou dvojičkou/skupinkou.
+   Bez spuštění! Přečti si kód v souboru `task02.py` a pokus se odhadnout, co dělá. Až budeš mít rozmyšleno, prober to se svou dvojičkou/skupinkou.
 
 2. **Run:** \
    Nyní kód spusťte. Byl váš odhad správný?
